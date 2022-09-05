@@ -5,9 +5,7 @@
 Welcome to my profile!
 * I'm a Junior Frontend developer
 * Open to work, remote or Moscow
-<!--
-* [My CV]()
--->
+* [My CV](https://cv.hexlet.io/resumes/1382)
 
 ## Technologies 🔧
 
