@@ -9,6 +9,7 @@ Welcome to my profile!
 * [My CV](https://cv.hexlet.io/resumes/1382) (Russian version)
 * Сontact me: 
    + *telegram*: @ttsog
+   + *email*: tsogoevats@gmail.com
 
 ## Technologies 🔧
 
