@@ -11,6 +11,8 @@ Welcome to my profile!
    + *telegram*: @ttsog
    + *email*: tsogoevats@gmail.com
 
+![](https://www.codewars.com/users/Tsogoeva/badges/small)
+
 ## Technologies 🔧
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9cf)
