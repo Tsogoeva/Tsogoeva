@@ -20,6 +20,7 @@ Welcome to my profile!
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=9cf)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=9cf)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=9cf)
+![](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=SCSS&logoColor=white&color=9cf)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=9cf)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=9cf)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=9cf)
