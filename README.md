@@ -5,7 +5,7 @@
 Welcome to my profile!
 
 * I'm a Junior Frontend developer
-* Open to work, remote or Moscow
+* Open to work, remote
 * [My CV](https://cv.hexlet.io/resumes/1382) (Russian version)
 * Сontact me: 
    + *telegram*: @ttsog
